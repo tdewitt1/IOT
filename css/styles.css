@@ -1,0 +1,19 @@
+/* My Styles */
+p {
+    width: 1920px;
+    height: 1080px;
+    background: none;
+    font-family: 'Meddon', cursive;
+    font-size: 6em;
+    color: gold;
+}
+
+h1 {
+font-family: 'Meddon', cursive;
+font-size: 4em;
+color: gold;
+}
+
+body {
+    background-image: url(../img/dark_wood.png);
+}
